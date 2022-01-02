@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "es2021",
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+      "removeComments": true, /* helps to reduce production size */
+      "outDir": "./package/dist",
+      "types": [
+        "node",
+      ]
+    }
+}
