@@ -63,4 +63,4 @@ The default substitution file can be imported with the `@includesub` directive w
 div.h1 -> ml: 20px, mr: 20px
 ```
 
-It includes the following substitutions based on abbreviated versions of the default properties names, so something like `margin-left` will be replaced with `ml`.
+It includes the substitutions based on abbreviated versions of the default properties names, so something like `margin-left` will be replaced with `ml`.
